@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419932591238",
+    "project_id": "ps-pahadi-38588",
+    "storage_bucket": "ps-pahadi-38588.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419932591238:android:282183282d3412121f2d07",
+        "android_client_info": {
+          "package_name": "com.example.ps_pahadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIy28kNHRey1oHxOO7BBzJCMYrB8q9uIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
